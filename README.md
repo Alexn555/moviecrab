@@ -23,7 +23,7 @@ to produce Movies database view system
     Movies.tsx - main Movies component
 
 ## How to run
- First install using yarn
+ First install using yarn <br />
    cmd -> yarn 
 
  To run: 
