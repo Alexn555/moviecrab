@@ -30,7 +30,10 @@ to produce Movies database view system
 
  To build
   yarn build  
-
+  
+## Demo version
+  Demo link: [link](http://norwaydict.com/moviecrab)
+ 
 ## Available Scripts
 
 In the project directory, you can run:
