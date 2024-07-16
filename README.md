@@ -34,6 +34,8 @@ to produce Movies database view system
   
 ## Demo version
   Demo link: [link](http://norwaydict.com/moviecrab)
+
+  ![Alt text](http://norwaydict.com/moviecrab/screen.jpg "Screen")
  
 ## Available Scripts
 
