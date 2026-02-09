@@ -33,9 +33,9 @@ to produce Movies database view system
   yarn build  
   
 ## Demo version
-  Demo link: [link](http://norwaydict.com/moviecrab)
+  Demo link: [link](https://alexn555-racing.com/projects/moviecrab)
 
-  ![Alt text](http://norwaydict.com/moviecrab/screen.jpg "Screen")
+  ![Alt text](https://alexn555-racing.com/projects/moviecrab/screen.jpg "Screen")
  
 ## Available Scripts
 
